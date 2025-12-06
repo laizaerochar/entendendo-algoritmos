@@ -1,2 +1,2 @@
 # entendendo-algoritmos
-Estudo do livro Entendendo Algoritmos por Aditya Y. Bhargava
+Exercícios resolvidos propostos pelo livro Entendendo Algoritmos por Aditya Y. Bhargava
